@@ -1,0 +1,5 @@
+{
+  "name": "Kopitiam Digital Waiter",
+  "description": "A simple, real-time sales tracker and digital logbook for Kopitiam owners to monitor daily sales and item performance.",
+  "requestFramePermissions": []
+}
